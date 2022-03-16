@@ -26,7 +26,6 @@ class Input:
 
 
   def header(self):
-    # TODO: identify and get os
     if platform.system() == "Windows":
       os.system('cls')
     else:
