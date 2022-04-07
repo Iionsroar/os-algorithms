@@ -1,2 +1,2 @@
-python relocatable-dynamic.py 
+python optimal.py
 PAUSE
