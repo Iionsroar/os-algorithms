@@ -1,2 +1,2 @@
-python optimal.py
+python "smallest-job-next.py"
 PAUSE
