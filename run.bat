@@ -1,2 +1,2 @@
-python "scheduling-algorithms\smallest-job-next.py"
+python "scheduling-algorithms/shortest-remaining-time.py"
 PAUSE
