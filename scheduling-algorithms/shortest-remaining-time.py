@@ -325,4 +325,4 @@ def main(is_test=True):
 		print()
 		manager.report()
 
-main(is_test=True)
+main(is_test=False)
